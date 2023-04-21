@@ -1,4 +1,4 @@
-# Diego Cordeiro <img src=".\assets\velocity_icon_vel_black.ico" alt="logo" style="zoom:15%;" />
+# Diego Cordeiro <img src=".\assets\velocity_marca_white_bg-11.png" alt="logo" width="70px" height="60px"/>
 
 CTO @velocity.treinamentos
 
