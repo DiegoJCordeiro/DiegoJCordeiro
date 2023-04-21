@@ -1,4 +1,4 @@
-# Diego Cordeiro <img src="C:\Users\Diego\Documents\Velocity\github\assets\velocity_icon_vel_black.ico" alt="logo" style="zoom:15%;" /><img src="C:\Users\Diego\Documents\Velocity\github\assets\rocket.png" alt="rocket_icon" style="zoom:10%;" />
+# Diego Cordeiro <img src=".\assets\velocity_icon_vel_black.ico" alt="logo" style="zoom:15%;" /><img src=".\assets\rocket.png" alt="rocket_icon" style="zoom:10%;" />
 
 CTO @velocity.treinamentos
 
@@ -8,7 +8,7 @@ Passionate about programming and various other technologies.
 
 I love read books, cook and program.
 
-In this profile, I will post repositories refer to studies doing although of Youtube, Medium and Linkedin.
+In this profile, I will post repositories refer to studies did although of Youtube, Medium and Linkedin.
 
 A phrase define me:  *"You will only win tomorrow if you don't give up today."* 
 
