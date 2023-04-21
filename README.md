@@ -1,4 +1,4 @@
-# Diego Cordeiro <img src=".\assets\velocity_marca_white_bg-11.png" alt="logo" width="70px" height="60px"/>
+# <samp>Diego Cordeiro</samp> <img src="https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/assets/velocity_marca_white_bg-11.png" alt="logo" width="70px" height="60px"/>
 
 CTO @velocity.treinamentos
 
