@@ -17,8 +17,9 @@ A phrase define me:  *"You will only win tomorrow if you don't give up today."*
 ***Welcome, people ! Let's go to studies.***
 
 ---
-<img src="[https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/assets/velocity_marca_white_bg-11.png](https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/.github/workflows/github-contribution-grid-snake.svg)" alt="logo" width="70px" height="60px"/>
-
+ <div style="text-align: center;">
+  <img src="![Snake animation](https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/.github/workflows/github-contribution-grid-snake.svg)" alt="logo" width="70px" height="60px"/>
+ </div>
  <div>
   <a href="https://github.com/DiegoJCordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJCordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
