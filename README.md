@@ -18,7 +18,7 @@ A phrase define me:  *"You will only win tomorrow if you don't give up today."*
 
 ---
  <div style="text-align: center;">
-  <img src="![Snake animation](https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/.github/workflows/github-contribution-grid-snake.svg)" alt="logo" width="70px" height="60px"/>
+  <img src="![Snake animation](https://github.com/DiegoJCordeiro/DiegoJCordeiro/blob/main/assets/github-contribution-grid-snake-dark.svg)"/>
  </div>
  <div>
   <a href="https://github.com/DiegoJCordeiro">
