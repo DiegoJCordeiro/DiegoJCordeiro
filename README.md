@@ -2,7 +2,6 @@
 
 ---
 
-I'm working at Zup Innovation as Senior Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.linkedin.com/in/diego-cordeiro-552948229/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://medium.com/@diegocordeiro.contatos)
 
@@ -21,9 +20,4 @@ A phrase define me:  *"You will only win tomorrow if you don't give up today."*
   
  ![Snake animation](https://raw.githubusercontent.com/DiegoJCordeiro/DiegoJCordeiro/output/github-contribution-grid-snake-dark.svg)
  
-</div>
- <div>
-  <a href="https://github.com/DiegoJCordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoJCordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJCordeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
