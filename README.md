@@ -2,7 +2,7 @@
 
 ---
 
-CTO @velocity.treinamentos
+I'm working at Zup Innovation as Senior Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://www.linkedin.com/in/diego-cordeiro-552948229/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://github.com/DiegoJCordeiro)](https://medium.com/@diegocordeiro.contatos)
 
